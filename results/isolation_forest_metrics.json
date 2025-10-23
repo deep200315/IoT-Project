@@ -1,0 +1,24 @@
+{
+    "accuracy": 0.729,
+    "precision": 0.75177304964539,
+    "recall": 0.11990950226244344,
+    "f1_score": 0.20682926829268292,
+    "confusion_matrix": [
+        [
+            2081,
+            35
+        ],
+        [
+            778,
+            106
+        ]
+    ],
+    "true_negatives": 2081,
+    "false_positives": 35,
+    "false_negatives": 778,
+    "true_positives": 106,
+    "specificity": 0.9834593572778828,
+    "false_positive_rate": 0.0165406427221172,
+    "roc_auc": 0.7038968342899178,
+    "pr_auc": 0.5208759789893688
+}
